@@ -1,0 +1,8 @@
+---
+applications:
+- name: cities-app
+  instances: 1
+  memory: 512M
+  host: helloapp-${random-word}
+  path: ./target/hello-app-0.0.1-SNAPSHOT.jar
+  timeout: 180
