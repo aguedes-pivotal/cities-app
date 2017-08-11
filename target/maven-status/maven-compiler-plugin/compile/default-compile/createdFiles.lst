@@ -1,0 +1,4 @@
+com/example/helloapp/Controller.class
+com/example/helloapp/repositories/CityRepository.class
+com/example/helloapp/HelloAppApplication.class
+com/example/helloapp/domain/City.class
